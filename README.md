@@ -1,2 +1,2 @@
 # spring-ai-poc
-POC application using Spring AI 
+POC application using Spring AI frameword
